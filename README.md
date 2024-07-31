@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Josh
+## Hi there! I am Josh Knipe
 I am a software engineer/consultant in London and have a blog at https://joshuaknipe.com
 
 Skills: PYTHON / C++
