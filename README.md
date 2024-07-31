@@ -3,7 +3,7 @@ I am a software engineer/consultant in London and have a blog at https://joshuak
 
 Skills: PYTHON / C++
 
-[![HitCount](https://hits.dwyl.com/joshuaknipe/joshuaknipe.svg?style=flat-square)](http://hits.dwyl.com/joshuaknipe/joshuaknipe)
+[![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/{username}/{project})
 
 ### 👷 What I'm currently working on 
 - [joshuaknipe/blog](https://github.com/joshuaknipe/blog) - A blog with some ramblings!
