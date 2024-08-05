@@ -16,7 +16,6 @@ Skills: PYTHON / C++ / HTML / CSS
 ### 📜  My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Obsidian as a second brain](/posts/obsidian-as-a-second-brain/)
-- [Reflections on Meditations by Marcus Aurelius](/posts/reflections-on-meditations-by-aurelius/)
 - [Why I&#39;m Starting a Blog](/posts/why-im-starting-a-blog/)
 <!-- BLOG-POST-LIST:END -->
 
