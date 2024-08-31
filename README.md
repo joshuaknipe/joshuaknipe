@@ -11,7 +11,7 @@ Skills: PYTHON / C++ / HTML / CSS
   
 ### 🌱 What I’m currently learning:
 -  [Javascript](https://www.javascript.com)
--  [React]([https://dart.dev](https://react.dev))
+-  [React](https://react.dev)
 -  [React Native](https://reactnative.dev)
 -  [Next.js](https://nextjs.org)
 -  [TailwindCSS](https://tailwindcss.com)
