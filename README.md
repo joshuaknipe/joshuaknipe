@@ -10,8 +10,11 @@ Skills: PYTHON / C++ / HTML / CSS
 - Mobile app (in stealth for now!)
   
 ### 🌱 What I’m currently learning:
--  [Flutter](https://flutter.dev)
--  [Dart](https://dart.dev)
+-  [Javascript](https://www.javascript.com)
+-  [React]([https://dart.dev](https://react.dev))
+-  [React Native](https://reactnative.dev)
+-  [Next.js](https://nextjs.org)
+-  [TailwindCSS](https://tailwindcss.com)
 
 ### 📜  My recent blog posts
 <!-- BLOG-POST-LIST:START -->
