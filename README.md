@@ -1,7 +1,7 @@
 ## Hi there!
 I am a software engineer/consultant in London and have a blog at https://joshuaknipe.com
 
-Skills: PYTHON / C++ / HTML / CSS
+Skills: PYTHON / JS / REACT
 
 [![HitCount](https://hits.dwyl.com/joshuaknipe/joshuaknipe.svg?style=flat-square&show=unique)](http://hits.dwyl.com/joshuaknipe/joshuaknipe)
 
