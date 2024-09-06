@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://joshuaknipe.com/posts/index.xml"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          template: "<tr><td>$title</td><td>https://joshuaknipe.com$url</td></tr>"
