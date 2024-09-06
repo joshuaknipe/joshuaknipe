@@ -1,7 +1,9 @@
 ## Hi there!
-I am a software engineer/consultant, currently working in London
+I am a software engineer/consultant, currently working in London.
 
 Skills: PYTHON / JS / REACT
+
+To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 
 [![HitCount](https://hits.dwyl.com/joshuaknipe/joshuaknipe.svg?style=flat-square&show=unique)](http://hits.dwyl.com/joshuaknipe/joshuaknipe)
 
