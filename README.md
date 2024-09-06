@@ -17,9 +17,6 @@ Skills: PYTHON / C++ / HTML / CSS
 -  [TailwindCSS](https://tailwindcss.com)
 
 ### 📜  My recent blog posts
-<!-- BLOG:START --><tr><td>Obsidian as a second brain</td><td>/posts/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>/posts/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
-
-### Latest Blog post activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- BLOG:START --><!-- BLOG:END -->
