@@ -17,7 +17,14 @@ Skills: PYTHON / C++ / HTML / CSS
 -  [TailwindCSS](https://tailwindcss.com)
 
 ### 📜  My recent blog posts
-<!-- BLOG-POST-LIST:START --><tr><td>Obsidian as a second brain</td><td>/posts/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>/posts/why-im-starting-a-blog/</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### Latest Blog post activity
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- BLOG:START --><!-- BLOG:END -->
+</table>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joshuaknipe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshuaknipe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://joshuaknipe.com)  
