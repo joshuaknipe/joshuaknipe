@@ -19,7 +19,7 @@ Skills: PYTHON / C++ / HTML / CSS
 ### 📜  My recent blog posts
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG:START --><!-- BLOG:END -->
+  <!-- BLOG:START --><tr><td>Obsidian as a second brain</td><td>/posts/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>/posts/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
 </table>
 
 
