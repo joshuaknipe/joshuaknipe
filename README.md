@@ -12,7 +12,6 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 - Mobile app (in stealth for now!)
   
 ### 🌱 What I’m currently learning:
--  [Javascript](https://www.javascript.com)
 -  [React](https://react.dev)
 -  [React Native](https://reactnative.dev)
 -  [Next.js](https://nextjs.org)
