@@ -1,5 +1,5 @@
 ## Hi there!
-I am a software engineer/consultant in London and have a blog at https://joshuaknipe.com
+I am a software engineer/consultant, currently working in London
 
 Skills: PYTHON / JS / REACT
 
