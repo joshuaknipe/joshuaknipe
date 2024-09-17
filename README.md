@@ -1,7 +1,7 @@
 ## Hi there!
 I am a software engineer/consultant, currently working in London.
 
-Skills: PYTHON / JS / REACT / HTML / TAILWINDCSS
+Skills: PYTHON / JS  / HTML / TAILWINDCSS
 
 To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 
@@ -15,7 +15,6 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 -  [React](https://react.dev)
 -  [React Native](https://reactnative.dev)
 -  [Next.js](https://nextjs.org)
--  [TailwindCSS](https://tailwindcss.com)
 
 ### 📜  My recent blog posts
 <table>
