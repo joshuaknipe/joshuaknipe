@@ -19,7 +19,7 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 ### 📜  My recent blog posts
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG:START --><tr><td>Reflections on Meditations by Marcus Aurelius</td><td>https://joshuaknipe.com//localhost:1313/posts/reflections-on-meditations-by-aurelius/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>https://joshuaknipe.com//localhost:1313/posts/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
+  <!-- BLOG:START --><tr><td>Obsidian Guide: Daily, Weekly, Monthly and Yearly notes</td><td>https://joshuaknipe.com/blog/obsidian-periodic-notes/</td></tr><tr><td>Obsidian as a Second Brain</td><td>https://joshuaknipe.com/blog/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>https://joshuaknipe.com/blog/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
 </table>
 
 
