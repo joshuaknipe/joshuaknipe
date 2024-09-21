@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://joshuaknipe.com/posts/index.xml"
+          feed_list: "https://joshuaknipe.com/blog/index.xml"
           template: "<tr><td>$title</td><td>https://joshuaknipe.com$url</td></tr>"
