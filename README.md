@@ -1,7 +1,7 @@
 ## Hi there!
 I am a software engineer/consultant, currently working in London.
 
-Skills: PYTHON / JS  / HTML / TAILWINDCSS
+Skills: PYTHON / TYPESCRIPT  / REACT
 
 To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 
