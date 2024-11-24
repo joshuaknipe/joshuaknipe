@@ -9,7 +9,7 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 
 ### 👷 What I'm currently working on 
 - [joshuaknipe/blog](https://github.com/joshuaknipe/blog) - A blog with some ramblings!
-- Mobile app (in stealth for now!)
+- Some of the projects pinned below
   
 ### 🌱 What I’m currently learning:
 -  [React](https://react.dev)
