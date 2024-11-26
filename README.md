@@ -19,7 +19,7 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 ### 📜  My recent blog posts
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG:START --><tr><td>Why I Built This Website with Hugo</td><td>https://joshuaknipe.com/blog/building-this-website/</td></tr><tr><td>Obsidian Guide: Daily, Weekly, Monthly and Yearly notes</td><td>https://joshuaknipe.com/blog/obsidian-periodic-notes/</td></tr><tr><td>Obsidian as a Second Brain</td><td>https://joshuaknipe.com/blog/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>https://joshuaknipe.com/blog/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
+  <!-- BLOG:START --><tr><td>Setting Up and Deploying This Blog</td><td>https://joshuaknipe.com/blog/setting-up-and-deploying-this-blog/</td></tr><tr><td>Why I Built This Blog with Hugo</td><td>https://joshuaknipe.com/blog/why-i-built-this-blog-with-hugo/</td></tr><tr><td>Obsidian Guide: Daily, Weekly, Monthly and Yearly notes</td><td>https://joshuaknipe.com/blog/obsidian-periodic-notes/</td></tr><tr><td>Obsidian as a Second Brain</td><td>https://joshuaknipe.com/blog/obsidian-as-a-second-brain/</td></tr><tr><td>Why I&#39;m Starting a Blog</td><td>https://joshuaknipe.com/blog/why-im-starting-a-blog/</td></tr><!-- BLOG:END -->
 </table>
 
 
