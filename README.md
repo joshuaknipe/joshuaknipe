@@ -5,8 +5,6 @@ Skills: PYTHON / TYPESCRIPT  / REACT
 
 To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 
-[![HitCount](https://hits.dwyl.com/joshuaknipe/joshuaknipe.svg?style=flat-square&show=unique)](http://hits.dwyl.com/joshuaknipe/joshuaknipe)
-
 ### 👷 What I'm currently working on 
 - [joshuaknipe/blog](https://github.com/joshuaknipe/blog) - A blog with some ramblings!
 - Some of the projects pinned below
