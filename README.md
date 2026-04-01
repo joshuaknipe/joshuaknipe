@@ -1,5 +1,5 @@
 ## Hi there!
-I am a software engineer/consultant, currently working in London.
+I am a product manager / builder, currently working in London.
 
 Skills: PYTHON / TYPESCRIPT  / REACT
 
@@ -9,11 +9,6 @@ To find out what I'm interested in, click [here](https://joshuaknipe.com/about/)
 - [joshuaknipe/blog](https://github.com/joshuaknipe/blog) - A blog with some ramblings!
 - Some of the projects pinned below
   
-### 🌱 What I’m currently learning:
--  [React](https://react.dev)
--  [React Native](https://reactnative.dev)
--  [Next.js](https://nextjs.org)
-
 ### 📜  My recent blog posts
 <table>
   <tr><th>Title</th><th>Link</th></tr>
