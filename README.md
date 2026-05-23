@@ -1,5 +1,5 @@
 ## Hi there!
-I am a product manager / builder, currently working in London.
+I am a technical product manager, currently working in London.
 
 Skills: PYTHON / TYPESCRIPT  / REACT
 
